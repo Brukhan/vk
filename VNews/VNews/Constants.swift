@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 
 let clientID = "6086746"
@@ -25,6 +26,9 @@ let accessToken = "72d417472b08888bb1e19d5cdd62680afe736299d75b1d7fde35927515e49
 
 
 // Need to fix issue with appID. Blin =(
+
+
+let kProgrammFont = UIFont(name: "AppleSDGothicNeo-UltraLight", size: 36.0)
 
 
 /*Task
